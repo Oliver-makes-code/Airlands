@@ -1,0 +1,135 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "7ffe1954587c77dfba1cf8eb9b2ea743671fa6e63f9e7a2f258119d42e14eefe"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "082f6ad0cbd500bbd7958bfe5f8846707117a49b3231fa944f80efd6d340484c"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "f23643270fbe235c6b3cb69d55b5da3e90cf40f9c3a0a441731325cca45b4779"
+metafile = true
+
+[[files]]
+file = "mods/caelus.toml"
+hash = "2cc86f13732dfdcc529bac729f91cdac7ef8c40096a33852ea1354a60491aed5"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.toml"
+hash = "13021367cfac333987e8008eeac4182b1324dcf0999fd9495df56dc9ae0b0b05"
+metafile = true
+
+[[files]]
+file = "mods/click-machine.toml"
+hash = "40c54ff0301c8f3943854432a5095f568e254c8ed7f5554735fd162cff998842"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-forge.toml"
+hash = "89ce240e47591e1bb1dd4537c995d0fb73b2bcbc082fe163e5ed31d422deda4f"
+metafile = true
+
+[[files]]
+file = "mods/create.toml"
+hash = "53896302c223875278b8dd598e584847b4a9fc0ac778d263e921051bc05128e4"
+metafile = true
+
+[[files]]
+file = "mods/extrastorage.toml"
+hash = "2603e1c7bd50579fd8208614c3fbb73b9b89091c949b3f8a44b52de0528bd896"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "a4b88d7bbb0cdcc7e4d469da0d9d18073933449a0efde6df8f5c77678b5b9781"
+metafile = true
+
+[[files]]
+file = "mods/mantle.toml"
+hash = "fac826e1d2a337dc96a65e08a07b9c36b61b8eb115e7fbee4599c2f54b72a82d"
+metafile = true
+
+[[files]]
+file = "mods/mcjtylib.toml"
+hash = "434f55a11c8248f8d6cfea2875c333af945aa9557cf09d0827a9397e7c4c07d3"
+metafile = true
+
+[[files]]
+file = "mods/mcwifipnp.toml"
+hash = "8bfb34790f9c3b35820c68d3e216dde6f4b05070dd351beeb97fda884b03ee6b"
+metafile = true
+
+[[files]]
+file = "mods/origins-forge.toml"
+hash = "623ca6f5154b9f7f5f5b207bece08781930893fd6cf9065f63d8c7dc406f67d4"
+metafile = true
+
+[[files]]
+file = "mods/placebo.toml"
+hash = "fa68534c346369f0650e6bfca58aefbba3cc82043a0c566442e6c177fb85bf59"
+metafile = true
+
+[[files]]
+file = "mods/refined-pipes.toml"
+hash = "72d1497e0b547ee41af0c5e8da0220a34cdb3d364fc6ef6705089df15239f60a"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.toml"
+hash = "0ddc5372f981e50196713bcfc0bbbe9b493f9b228f95bf31d521b4b2d9d4bbe1"
+metafile = true
+
+[[files]]
+file = "mods/rftools-base.toml"
+hash = "ede696d4d7859df23eb8803d750dcd65861b9b31daa61f3d8636bc15a9c2bbc4"
+metafile = true
+
+[[files]]
+file = "mods/rftools-builder.toml"
+hash = "7501f645efadbfbfa37de19ba5d90deee21883e45c7eaf5f77050ea886c936a2"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.toml"
+hash = "4cd7e647cb355950ca1b8aab82b20c0d18c441eea933dea8408f36ae93655bdb"
+metafile = true
+
+[[files]]
+file = "mods/rftools-power.toml"
+hash = "7f23fcc1e6b2f8598b097e96ae81456175520b5349867f0f5bb9ddb43c17d67e"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.toml"
+hash = "3b5bf076a56e1c381b0b9ef0e44422365fe63676e3b880fb6c2fe631c4f34762"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items-hacks.toml"
+hash = "b5bf0550d326d8decdf0ac5008ea204d1042d3e8d7c9df0aa5cc9d5fe745df2f"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "d4117777ac1be6b408739b0740affa7c657749e053eb1f9ae2fa0dd97faa998e"
+metafile = true
+
+[[files]]
+file = "mods/skyblock-builder.toml"
+hash = "cc8e2ada1c94e4f820df5f436be28609b86d9109bb5ecbab60569167a610330f"
+metafile = true
+
+[[files]]
+file = "mods/tinkers-construct.toml"
+hash = "97f398804505f093732f9886e7b8385461dbb2a7a1c14eed8879635cdac4b03e"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "15d771bafd056376f59a6ba9ebffbc7218d7d4cf9ed0e74e53e5a2647ec7cb18"
+metafile = true

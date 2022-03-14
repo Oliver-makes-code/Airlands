@@ -1,0 +1,13 @@
+name = "Create"
+filename = "create-mc1.18.1_v0.4e.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3687/358/create-mc1.18.1_v0.4e.jar"
+hash-format = "sha1"
+hash = "fcc174a274016e7aa2fa94b23f94d5b7c3c5a8ac"
+
+[update]
+[update.curseforge]
+file-id = 3687358
+project-id = 328085

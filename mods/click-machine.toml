@@ -1,0 +1,13 @@
+name = "Click Machine"
+filename = "ClickMachine-1.18.1-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3639/776/ClickMachine-1.18.1-6.0.2.jar"
+hash-format = "sha1"
+hash = "18399f04b4e05ea41cf4dfb1fa129d772d2662b4"
+
+[update]
+[update.curseforge]
+file-id = 3639776
+project-id = 298275
